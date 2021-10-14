@@ -1,5 +1,6 @@
 
 
+![](./src/logo.png)
 # INFORMATION
 
 **Time**: TBD, Dec 5, 2021

@@ -10,7 +10,7 @@
 # Speakers: 
 
 
-<img align="left" src="src/anupam.jpg" width="150" height="150" style="border-radius:50%">
+<img align="left" src="src/anupam.jpg" width="150" height="150">
 
 [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/), Carnegie Mellon University
 

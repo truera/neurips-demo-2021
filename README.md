@@ -27,6 +27,7 @@ Matt Fredrikson is an Assistant Professor of Computer Science at Carnegie Mellon
 <img align="left" src="src/klas.png" width="150" height="150">
 
 [Klas Leino](http://www.cs.cmu.edu/~kleino/), Carnegie Mellon University
+
 Klas Leino is a PhD candidate in the Accountable Systems Lab at Carnegie Mellon University, advised by Matt Fredrikson. His research primarily concentrates on demystifying deep learning and understanding its weaknesses and vulnerabilities in order to improve the security, privacy, and transparency of deep neural networks.<br><br><br>
 
 ---

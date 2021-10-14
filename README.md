@@ -7,7 +7,11 @@
 **Zoom Location**: TBD
 
 **Speakers**: 
-- [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/)
+<img align="left" src="src/anupam.jpg" width="150" height="150">
+[Anupam Datta](https://www.andrew.cmu.edu/user/danupam/)
+
+Anupam Datta is a Professor of Electrical & Computer Engineering and Computer Science at Carnegie Mellon University, Co-founder and Chief Scientist of Truera, Director of the Accountable Systems Lab. He received his Ph.D. of Computer Science from Stanford University. His research focuses on enabling real-world complex systems to be accountable for their behavior, especially as they pertain to privacy, fairness, and security.
+
 - [Matt Fredrikson](https://www.cs.cmu.edu/~mfredrik/)
 - [Klas Leino](http://www.cs.cmu.edu/~kleino/)
 - Kaiji Lu

@@ -63,9 +63,21 @@ Zifan Wang is a third-year student in the Accountable System Lab at Carnegie Mel
 
 # DESCRIPTION
 As machine learning has become increasingly ubiquitous, there has been a growing need to assess the trustworthiness of learned models. One important aspect to model trust is conceptual soundness, i.e., the extent to which a model uses features that are appropriate for its intended task. We present TruLens, a new cross-platform framework for explaining deep network behavior. In our demonstration, we provide an interactive application built on TruLens that we use to explore the conceptual soundness of various pre-trained models. Throughout the presentation, we take the unique perspective that robustness to small-norm adversarial examples is a necessary condition for conceptual soundness; we demonstrate this by comparing explanations on models trained with and without a robust objective. Our demonstration will focus on our end-to-end application, which will be made accessible for the audience to interact with; but we will also provide details on its open-source components, including the TruLens library and the code used to train robust networks.
-# Demo Colab Notebooks (More Details Coming Soon)
 
+# Demo Topics 
+## 1. TruLens Usage
+*Accompanying Materials*
+* Medium Article: [A Hands on Introduction to Explaining Neural Networks](https://medium.com/trulens/a-hands-on-introduction-to-explaining-neural-networks-with-trulens-504bfab1a578)
+* TruLens Guide: [API Reference](https://www.trulens.org/api/attribution/)
+* PyTorch: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n77IGrPDO2XpeIVo_LQW0gY78enV-tY9)
+* Tensorflow 2 / Keras: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f-ETsdlppODJGQCdMXG-jmGmfyWyW2VD)
 
+## 2. Using TruLens for Conceptual Soundness
+*Accompanying Materials*
+* Medium Article: [Peer Deep into Neural Networks with TruLens](https://medium.com/trulens/peer-deep-into-neural-networks-with-trulens-a813f22792f7)
+* Towards Data Science Article: [Overfitting and Conceptual Soundness](https://towardsdatascience.com/overfitting-and-conceptual-soundness-3a1fd187a6d4)
+* Overfitting Demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iswyxd4rorKqqQWkC4kieAwFpfqBS25v)
+---
 More resources are available on our Github page: [TruLens](https://github.com/truera/trulens)
 
 

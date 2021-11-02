@@ -3,7 +3,7 @@
 ![](./src/logo.png)
 # INFORMATION
 
-**Time**: TBD, Dec 5, 2021
+**Time**: TBD, Dec 8, 2021
 
 **Zoom Location**: TBD
 
@@ -57,7 +57,7 @@ production data science teams. He graduated with a Master’s in Machine Learnin
 
 [Zifan Wang](https://sites.google.com/west.cmu.edu/zifan-wang/home), Carnegie Mellon University
 
-Zifan Wang is a third-year student in the Accountable System Lab at Carnegie Mellon University, co-advised by Anupam Datta and Matt Fredrikson. His concentrations include explanation tools for deep nueral networks and its applicaiton for Computer Vision tasks. <br><br>
+Zifan Wang is a third-year student in the Accountable System Lab at Carnegie Mellon University, co-advised by Anupam Datta and Matt Fredrikson. His concentrations include explanation tools for deep nueral networks and its application for Computer Vision tasks. <br><br>
 
 ---
 

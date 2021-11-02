@@ -77,7 +77,9 @@ As machine learning has become increasingly ubiquitous, there has been a growing
 * Medium Article: [Peer Deep into Neural Networks with TruLens](https://medium.com/trulens/peer-deep-into-neural-networks-with-trulens-a813f22792f7)
 * Towards Data Science Article: [Overfitting and Conceptual Soundness](https://towardsdatascience.com/overfitting-and-conceptual-soundness-3a1fd187a6d4)
 * Overfitting Demo: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iswyxd4rorKqqQWkC4kieAwFpfqBS25v)
+
 ---
+
 More resources are available on our Github page: [TruLens](https://github.com/truera/trulens)
 
 

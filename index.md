@@ -3,7 +3,7 @@
 ![](./src/logo.png)
 # INFORMATION
 
-**Time**: Dec 8, 2021, 9:20AM PST / 11:20PM CT / 12:20PM ET / 4:20PM GMT / 5:20PM CET
+**Time**: Tue Dec 8, 2021, 9:20AM PST / 12:20PM ET / 5:20PM UTC
 
 **Zoom Location**: TBD
 
